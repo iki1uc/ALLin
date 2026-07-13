@@ -1,0 +1,15 @@
+NAME = ALLin
+ROOT = iki1uc
+SYSTEM = 6E
+MODUL = ALLin
+DIM = I
+
+ROLLE = Eingang / Input / Aufnahme
+FUNKTION = Aufnahme aller Signale, Räume und META‑Impulse in das System
+
+POSITION = I‑Ebene (Input)
+LINK = D0 (style) + D1 (HEAD) + D2 (HTML)
+TMP-LAEUFER = SYQ
+
+STATUS = STABIL
+READY = 100%
